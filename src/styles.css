@@ -133,3 +133,9 @@ a#fahrenheit {
 p .emoji-card {
   size: 100px;
 }
+
+#open-source-link {
+  font-size: 10px;
+  padding-top: 10px;
+  text-align: center;
+}
